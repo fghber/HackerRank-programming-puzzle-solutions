@@ -1,0 +1,1 @@
+cat(round((dgeom(4,prob=(1/3))),3))
