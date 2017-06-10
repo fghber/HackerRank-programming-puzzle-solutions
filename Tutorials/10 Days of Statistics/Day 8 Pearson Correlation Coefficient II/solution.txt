@@ -1,0 +1,12 @@
+Solve the equations for x resp. y:
+y = -2 + (-3/4) * x 
+x = -7/4 + (-3/4) * y
+We know b1 = -3/4 and b2 = -3/4 and can solve Pearson's Coefficient formula for Pearsons
+(x_sd / y_sd) * b1 = Pearsons
+(y_sd / x_sd) * b2 = Pearsons
+Since b1==b2 we can set x_sd=y_sd and p=b1=b2
+So, if multiply both sides of the equations together:
+(x_sd/y_sd) * b1 = (y_sd/x_sd) * b2 -> b1 * b2 = Pearsons^2
+p^2 = (-3/4) * (-3/4) = 9/16 = +/-3/4
+Since both regression lines have negative slopes, x and y are negatively correlated
+Answer: p = -3/4
