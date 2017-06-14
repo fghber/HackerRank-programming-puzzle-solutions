@@ -1,0 +1,1 @@
+cat(round(sum((1/3)*(2/3)^c(0:4)),digits=3))
